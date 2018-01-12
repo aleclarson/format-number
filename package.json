@@ -1,0 +1,7 @@
+{
+  "name": "format-number",
+  "version": "1.0.0",
+  "devDependencies": {
+    "testpass": "^0.5.1"
+  }
+}
